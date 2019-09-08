@@ -1,4 +1,3 @@
-School of AI Community: FAQ with suggested links
 # How Questions
 
 ## How do I create a database?
@@ -255,7 +254,7 @@ Enterprises keep making these three mistakes, wasting their money, reducing app 
 * [Why Deep Learning is Radically Different from Machine Learning](https://medium.com/intuitionmachine/why-deep-learning-is-radically-different-from-machine-learning-945a4a65da4d)
 ## Where are members of this community on their AI/ML/DL journey?
 * [How do I find out other people's needs and desires in a very short period of time?](https://www.quora.com/How-do-I-find-out-other-peoples-needs-and-desires-in-a-very-short-period-of-time)
-## Where can I simultaneously learn while contributin to a global initiative?
+## Where can I simultaneously learn while contributing to a global initiative?
 * [Altruism Still Fuels the Web. Businesses Love to Exploit It](https://www.wired.com/story/altruism-open-source-fuels-web-businesses-love-to-exploit-it/)
 ## Where should I do X?
 * [To Learn, Students Need to DO Something](https://www.cultofpedagogy.com/do-something/)
