@@ -1,3 +1,5 @@
+School of AI: Community F.A.Q.
+
 # How Questions
 
 ## How do I create a database?
