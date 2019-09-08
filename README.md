@@ -1,6 +1,4 @@
-School of AI: Community F.A.Q.
-
-# How Questions
+# School of AI: Community F.A.Q.
 
 ## How do I create a database?
 
@@ -149,7 +147,7 @@ School of AI: Community F.A.Q.
 * [9 Core Behaviors Of People Who Positively Impact The World](https://www.forbes.com/sites/kathycaprino/2014/06/02/9-core-behaviors-of-people-who-positively-impact-the-world/#4dc4ed666b41)
 * [8 Sensational Ways to Create a Positive Impact Every Day
 Discover how engaging in acts of kindness daily can create more joy and meaning in our lives.](https://www.inc.com/angelina-zimmerman/8-sensational-ways-to-create-a-positive-impact-daily.html)
-# What questions
+
 ## What do I need to do in order to develop my local SOAI chapter?
 * [5 Ways to Attract Young People to Your Nonprofit](https://blogs.volunteermatch.org/engagingvolunteers/2015/05/19/5-ways-to-attract-young-people-to-your-nonprofit/)
 ## What sort of information do new deans need to provide?
